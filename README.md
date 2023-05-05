@@ -1,2 +1,2 @@
 # Sdm-Projeto
-Projeto em andamento na faculdade
+Projeto feito na faculdade.
